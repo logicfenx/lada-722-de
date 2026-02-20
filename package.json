@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/lada-722-de",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a lada-722-de",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/lada-722-de.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://transpero.net/es/lada-722-de-donde-es/"
+    },
+    "homepage": "https://transpero.net/es/lada-722-de-donde-es/"
+}
